@@ -1,13 +1,15 @@
-# README
-## This is the README for your extension "saturn"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Saturn 🚀
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A theme inspired in Saturn planet. 🚀
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Example using ReactJS Syntax
 
-**Enjoy!**
+![screenshot](https://github.com/matheusmazeto/saturn-vscode-theme/blob/master/screenshot.png?raw=true)
+
+## Contribute
+
+Feel free to open issues for suggestions, fork my repo to build your version or to create new pull requests.
+
+## Licence
+
+MIT
