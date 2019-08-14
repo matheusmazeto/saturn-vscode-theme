@@ -1,0 +1,27 @@
+{
+    "name": "saturn",
+    "displayName": "Saturn",
+    "description": "A theme inspired in Saturn planet.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/matheusmazeto/saturn-vscode-theme"
+    },
+    "version": "0.0.1",
+    "icon": "icon.png",
+    "publisher": "matheusmazeto",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Saturn",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Saturn-color-theme.json"
+            }
+        ]
+    }
+}
