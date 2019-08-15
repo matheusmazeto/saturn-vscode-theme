@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/matheusmazeto/saturn-vscode-theme"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "icon.png",
   "publisher": "matheusmazeto",
   "engines": {
